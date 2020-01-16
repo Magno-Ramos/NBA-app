@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NBA Teams</string>
+    <string name="activity_teams_label">NBA Teams</string>
+    <string name="activity_main_label">NBA App</string>
+    <string name="nba">NBA</string>
+    <string name="teams">Times</string>
+</resources>
