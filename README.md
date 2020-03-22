@@ -6,3 +6,5 @@ Application designed to demonstrate the use of the **Android Paging Library** th
 The Result
 
 <img src="https://raw.githubusercontent.com/Magno-Ramos/NBA-app/add-image/images/app.gif" width="250" heigth="500">
+
+https://youtu.be/2lFLMo1MtgI
